@@ -9,13 +9,17 @@
 
 ## Projects
 
-### [Album Collector](https://albumcollectorbykk.herokuapp.com/about/) - A Full-stack CRUD (create, read, update, delete) web application created using Django, Python, HTML, CSS, and DTL, and deployed on Heroku. The app enables users to create color-coded lists, enter albums to associate with one or more of their lists, keep track of when they listen to albums, and upload artwork to associate with the albums. Many music lovers associate different albums together for a variety of reasons, and this gives them a space to dynamically create and edit lists of albums without crowding the streaming platform where they keep their saved music and playlists.
+### [Album Collector](https://albumcollectorbykk.herokuapp.com/about/)
+* A Full-stack CRUD (create, read, update, delete) web application created using Django, Python, HTML, CSS, and DTL, and deployed on Heroku. The app enables users to create color-coded lists, enter albums to associate with one or more of their lists, keep track of when they listen to albums, and upload artwork to associate with the albums. Many music lovers associate different albums together for a variety of reasons, and this gives them a space to dynamically create and edit lists of albums without crowding the streaming platform where they keep their saved music and playlists.
 
-### [GetTogether](https://gettogether.herokuapp.com/) - A collaborative (team of 3 developers), Full-stack CRUD (create, read, update, delete) web application created using 'mob programming,' Django, Python, HTML, CSS, and DTL, and deployed on Heroku. The app allows visitors to sign up or login, view events in three different cities, create events in any of those cities, comment on past and upcoming events, and rate past events. Our team's mission was to create a community-centric app that makes finding events and putting on events simple and fun.
+### [GetTogether](https://gettogether.herokuapp.com/)
+* A collaborative (team of 3 developers), Full-stack CRUD (create, read, update, delete) web application created using 'mob programming,' Django, Python, HTML, CSS, and DTL, and deployed on Heroku. The app allows visitors to sign up or login, view events in three different cities, create events in any of those cities, comment on past and upcoming events, and rate past events. Our team's mission was to create a community-centric app that makes finding events and putting on events simple and fun.
 
-### [Pickleball LA](https://pickleball-la.herokuapp.com/dashboard) - A Full-stack CRUD (create, read, update, delete) web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. The app enables users to login using Google OAuth, browse a list of verified pickleball courts in Los Angeles, and view further details about each individual court including reviews that users have posted.
+### [Pickleball LA](https://pickleball-la.herokuapp.com/dashboard)
+* A Full-stack CRUD (create, read, update, delete) web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. The app enables users to login using Google OAuth, browse a list of verified pickleball courts in Los Angeles, and view further details about each individual court including reviews that users have posted.
 
-### [Minesweeper](https://kailahk.github.io/minesweeper/) - A browser-based version of the classic Minesweeper game created using JavaScript, HTML, CSS, and deployed on GitHub.
+### [Minesweeper](https://kailahk.github.io/minesweeper/)
+* A browser-based version of the classic Minesweeper game created using JavaScript, HTML, CSS, and deployed on GitHub.
 
 ## Skills
 
