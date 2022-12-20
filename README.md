@@ -9,6 +9,9 @@
 
 ## Projects
 
+### [Bucket Lister](https://bucket-lister-bykk.herokuapp.com/)
+*  Full-stack CRUD web application created using React, JavaScript, Express.js, MongoDB, HTML, CSS, and deployed on Heroku.  Enables users to add items to their bucket list, edit, delete them, and mark them as being completed. Consumes third party API.
+
 ### [Album Collector](https://albumcollectorbykk.herokuapp.com/about/)
 * A Full-stack CRUD (create, read, update, delete) web application created using Django, Python, HTML, CSS, and DTL, and deployed on Heroku. The app enables users to create color-coded lists, enter albums to associate with one or more of their lists, keep track of when they listen to albums, and upload artwork to associate with the albums. Many music lovers associate different albums together for a variety of reasons, and this gives them a space to dynamically create and edit lists of albums without crowding the streaming platform where they keep their saved music and playlists.
 
