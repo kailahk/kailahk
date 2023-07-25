@@ -9,19 +9,32 @@
 
 ## Projects
 
+### [Bea’s Portfolio](https://beakorsh.com/)
+* Designed and built a sleek, mobile-responsive portfolio website for typographer Bea Korsh.
+* Transformed client's vision into a tangible, polished product, reflecting Bea's creative identity effectively.
+
+### [ALLY](https://ally-2.onrender.com/)
+* Hackathon Project, Theme: AI for Good
+* Led a cross-functional team in developing "ALLY," a full stack web app utilizing OpenAI's Chat Completions API to track personal relationships.
+* Technologies: React, JavaScript, Express.js, Node.js, OpenAI, MongoDB, Railway, Render.
+* Project managed, led frontend dev, coded OpenAI API integration.
+* Continued improvement post-hackathon by refining features and redesigning the UI.
+
 ### [Bucket Lister](https://bucket-lister-bykk.herokuapp.com/)
-*  Full-stack CRUD web application created using React, JavaScript, Express.js, MongoDB, HTML, CSS, and deployed on Heroku.  Enables users to add items to their bucket list, edit, delete them, and mark them as being completed. Consumes third party API.
+*  Built a full-stack, full CRUD web application created using React, JavaScript, Express.js, MongoDB, HTML, CSS, and deployed on Heroku. The app enables users to add items to their bucket list, edit, delete them, and mark them as being completed. Consumes third party API.
 
 ### [GetTogether](https://gettogether.herokuapp.com/)
-* A collaborative (team of 3 developers), Full-stack CRUD (create, read, update, delete) web application created using 'mob programming,' Django, Python, HTML, CSS, and DTL, and deployed on Heroku. The app allows visitors to sign up or login, view events in three different cities, create events in any of those cities, comment on past and upcoming events, and rate past events. Our team's mission was to create a community-centric app that makes finding events and putting on events simple and fun.
+* Collaborated on a team of 3 developers to built a full-stack, full CRUD web application using Django, Python, HTML, CSS, and DTL, and deployed on Heroku. The app allows visitors to sign up or login, view events in three different cities, create events in any of those cities, comment on past and upcoming events, and rate past events. Our team's mission was to create a community-centric app that makes finding events and putting on events simple and fun.
 
 ### [Pickleball LA](https://pickleball-la.herokuapp.com/dashboard)
-* A Full-stack CRUD (create, read, update, delete) web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. The app enables users to login using Google OAuth, browse a list of verified pickleball courts in Los Angeles, and view further details about each individual court including reviews that users have posted.
+* Created a full-stack CRUD web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. The app enables users to login using Google OAuth, browse a list of verified pickleball courts in Los Angeles, and view further details about each individual court including reviews that users have posted.
 
-### [Minesweeper](https://kailahk.github.io/minesweeper/)
-* A browser-based version of the classic Minesweeper game created using JavaScript, HTML, CSS, and deployed on GitHub.
+### [Minesweeper](https://kailahk.github.io/minesweeper/) | [Sudoku](https://kailahk.github.io/sudoku/) | [More Than Friends](https://kailahk.github.io/more-than-friends/)
+* Built browser-based games using JavaScript, HTML, CSS, and deployed on GitHub Pages.
 
 ## Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
@@ -30,8 +43,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![Express.js](	https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
