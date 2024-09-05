@@ -9,6 +9,9 @@
 * Designed and built a sleek, mobile-responsive portfolio website for typographer Bea Korsh.
 * Transformed client's vision into a tangible, polished product, reflecting Bea's creative identity effectively.
 
+### [Sudoku NYT Style]([https://kailahk.github.io/sudoku/]) (Personal Project)
+* Built a browser-based game with HTML, CSS, and JavaScript
+
 ### [ALLY](https://ally-2.onrender.com/) (Hackathon Project, Theme: AI for Good)
 * Led a cross-functional team in developing "ALLY," a full stack web app utilizing OpenAI's Chat Completions API to track personal relationships.
 * Technologies: React, JavaScript, Express.js, Node.js, OpenAI, MongoDB, Railway, Render.
