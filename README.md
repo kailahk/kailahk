@@ -1,11 +1,7 @@
 ![Kailah Korsh](https://user-images.githubusercontent.com/112985738/204653788-160d7c7a-097f-4ea4-913a-ec7e09c8593c.png)
 
 ### Hi 👋 
-### I'm Kailah (KAY-luh), and I'm a Full Stack Web Developer living in Los Angeles, CA. Here's a bit more about my professional background.
-
-* I have over 6 years of experience in the entertainment industry, specifically celebrity-focused venture advisory, music management, and live event coordination.
-* I am a proven dedicated and proactive hard worker with a track record of successfully completing valued projects from concept to delivery with little oversight.
-* I am an extremely organized, detail oriented, and communicative team member and leader with excellent time management skills, who consistently strives to improve efficiency in any position she is in by assessing and improving integral processes.
+### I'm Kailah (KAY-luh), and I'm a full stack web developer and designer living in Brooklyn, NY. Here's a bit more about my professional background.
 
 ## Projects
 
